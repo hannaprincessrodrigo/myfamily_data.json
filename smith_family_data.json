@@ -1,22 +1,22 @@
 {
   "family": [
       {
-      "name": "Venus Smith"
+      "name": "Venus Smith",
       "age": 35,
-      "work": "Housewife"
+      "work": "Housewife",
     },
       {
-      "name": "Adam Smith"
+      "name": "Adam Smith",
       "age": 38,
-      "work": "Lawyer"
+      "work": "Lawyer",
     },
       {
-      "name": "Andrea Smith"
+      "name": "Andrea Smith",
       "age": 10,
       "work": null
     },
       {
-      "name": "Jammy Smith"
+      "name": "Jammy Smith",
       "age": 7,
       "work": null
     }
